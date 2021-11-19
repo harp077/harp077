@@ -1,5 +1,5 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=harp077&show_icons=true&count_private=true&hide_title=false&theme=flag-india&include_all_commits=true)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=harp077&langs_count=3&hide_title=true)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=harp077&langs_count=3&hide_title=true&card_width=222)
 
 <!--
 **harp077/harp077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
