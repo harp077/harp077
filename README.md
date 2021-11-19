@@ -1,5 +1,5 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=harp077&show_icons=true&count_private=true&hide_title=false&theme=flag-india&include_all_commits=true&locale=en&hide=issues)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=harp077&langs_count=3&hide_title=true&card_width=222)
+![Stats](https://github-readme-stats.vercel.app/api?username=harp077&show_icons=true&count_private=true&hide_title=false&theme=flag-india&include_all_commits=true&locale=en&border_color=008080&hide=issues)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=harp077&langs_count=3&hide_title=true&border_color=008080&card_width=222)
 
 <!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harp077&repo=sjce&show_owner=true&theme=buefy)
