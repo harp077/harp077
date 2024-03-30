@@ -3,6 +3,7 @@
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=harp077&langs_count=3&hide_title=true&border_color=008080&card_width=222)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harp077&repo=pj-net-tools&show_owner=true&theme=buefy)
+<!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harp077&repo=sjce&show_owner=true&theme=buefy)
 <!--
 **harp077/harp077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
