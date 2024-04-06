@@ -1,3 +1,9 @@
+### Hi there 👋
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=harp077&color=brightgreen)
 <!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=harp077&show_icons=true&count_private=true&hide_title=false&theme=flag-india&include_all_commits=true&locale=en&border_color=008080&line_height=22)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=harp077&langs_count=3&hide_title=true&border_color=008080&card_width=222)
