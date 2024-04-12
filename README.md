@@ -1,7 +1,14 @@
 ### Hi 👋
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=720&lines=Code changes the world." /></a>
+</div>
+
+![](https://raw.githubusercontent.com/asxez/asxez/output/github-contribution-grid-snake.svg)
+<!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+-->
 ![](https://komarev.com/ghpvc/?username=harp077&color=brightgreen)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=harp077&show_icons=true&count_private=true&hide_title=false&theme=flag-india&include_all_commits=true&locale=en&border_color=008080&line_height=22)
