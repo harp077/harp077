@@ -1,7 +1,7 @@
 ### Hi 👋
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&random=false&width=720&lines=Code changes the world,; really." /></a>
+    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&random=false&width=720&lines=Code changes the world,; really.&center=true" /></a>
 </div>
 
 ![](https://raw.githubusercontent.com/asxez/asxez/output/github-contribution-grid-snake.svg)
